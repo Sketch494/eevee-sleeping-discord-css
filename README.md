@@ -1,5 +1,5 @@
 <h1 align="center">eevee sleeping the cutest discord css there is</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">eevee i choose you</h3>
 
 - Better Discord? **Put th eeeveesleeping.theme file in to your theme folder**
 
