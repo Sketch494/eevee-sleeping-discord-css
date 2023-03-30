@@ -3,7 +3,7 @@
 
 - Better Discord? **Put th eeeveesleeping.theme file in to your theme folder**
 
-- Vencord? **copy this text and paste it into your themes text box**
+- Vencord? [copy this text and paste it into your themes text box](https://raw.githubusercontent.com/Sketch494/eevee-sleeping-discord-css/main/eeveesleeping.theme.css)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
